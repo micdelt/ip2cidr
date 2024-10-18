@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip2cidr", "ip2cidr.csproj", "{F83E9E97-7429-4786-8B5A-16751FBE5C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83E9E97-7429-4786-8B5A-16751FBE5C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83E9E97-7429-4786-8B5A-16751FBE5C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83E9E97-7429-4786-8B5A-16751FBE5C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83E9E97-7429-4786-8B5A-16751FBE5C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5513FCBE-451C-4FBA-8634-362FB65E380D}
+	EndGlobalSection
+EndGlobal

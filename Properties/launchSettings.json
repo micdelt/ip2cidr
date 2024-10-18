@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ip2cidr": {
+      "commandName": "Project",
+      "commandLineArgs": "-m c:\\desktop\\unblock_ip_test 16 "
+    }
+  }
+}
